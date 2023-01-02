@@ -10,3 +10,4 @@ This repo contains articles that I planned for next 60 days which are the end of
 | ------------- | ------------- |
 | 1.  | [How to Master The Art of Content Creation As a Developer](https://patilganesh1010.hashnode.dev/how-to-master-the-art-of-content-creation-as-a-developer)  |
 | 2.  | [A Complete Guide to Modern Waves](https://patilganesh1010.hashnode.dev/a-complete-guide-to-modern-waves)  |
+| 3.  | [Let's Talk About DevRel](https://patilganesh1010.hashnode.dev/lets-talk-about-devrel)  |
