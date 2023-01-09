@@ -13,6 +13,8 @@ This repo contains articles that I planned for next 60 days which are the end of
 | 3.  | [Let's Talk About DevRel](https://patilganesh1010.hashnode.dev/lets-talk-about-devrel)  |
 | 4.  | [10+ Ambassador Programs for Newbies](https://patilganesh1010.hashnode.dev/10-ambassador-programs-for-newbies)  |
 | 5.  | [Why Communities Are So Important?](https://patilganesh1010.hashnode.dev/why-communities-are-so-important)  |
+| 6.  | [Devops Simplified](https://dev.to/patilganesh1010/devops-simplified-j12)  |
+
 
 
  
