@@ -14,6 +14,7 @@ This repo contains articles that I planned for next 60 days which are the end of
 | 4.  | [10+ Ambassador Programs for Newbies](https://patilganesh1010.hashnode.dev/10-ambassador-programs-for-newbies)  |
 | 5.  | [Why Communities Are So Important?](https://patilganesh1010.hashnode.dev/why-communities-are-so-important)  |
 | 6.  | [Devops Simplified](https://dev.to/patilganesh1010/devops-simplified-j12)  |
+| 7.  | [How to Create a Stunning GitHub Readme Profile](https://patilganesh1010.hashnode.dev/how-to-create-a-stunning-github-readme-profile)  |
 
 
 
