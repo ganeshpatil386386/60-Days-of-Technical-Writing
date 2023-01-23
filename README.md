@@ -16,6 +16,7 @@ This repo contains articles that I planned for next 60 days which are the end of
 | 6.  | [Devops Simplified](https://dev.to/patilganesh1010/devops-simplified-j12)  |
 | 7.  | [How to Create a Stunning GitHub Readme Profile](https://patilganesh1010.hashnode.dev/how-to-create-a-stunning-github-readme-profile)  |
 | 8.  | [How to Make Money As a Technical Writer](https://patilganesh1010.hashnode.dev/a-complete-guide-to-make-money-as-a-technical-writer)  |
+| 9.  | [How to Get Internship As a Developer](https://patilganesh1010.hashnode.dev/right-approach-to-get-internship-as-a-developer)  |
 
 
 
