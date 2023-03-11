@@ -17,7 +17,11 @@ This repo contains articles that I planned for next 60 days which are the end of
 | 7.  | [How to Create a Stunning GitHub Readme Profile](https://patilganesh1010.hashnode.dev/how-to-create-a-stunning-github-readme-profile)  |
 | 8.  | [How to Make Money As a Technical Writer](https://patilganesh1010.hashnode.dev/a-complete-guide-to-make-money-as-a-technical-writer)  |
 | 9.  | [How to Get Internship As a Developer](https://patilganesh1010.hashnode.dev/right-approach-to-get-internship-as-a-developer)  |
-| 10.  | [How to Learn Linux for free ](https://patilganesh1010.hashnode.dev/a-complete-guide-to-hackthebox)  
+| 10. | [How to Learn Linux for free ](https://patilganesh1010.hashnode.dev/a-complete-guide-to-hackthebox)  
+| 11. | [Developer Resources to keep Yourself updated with Latest Tech Trends](https://patilganesh1010.hashnode.dev/developer-resources-to-keep-yourself-updated-with-latest-tech-trends)  
+| 12. | [Codedamn Playgrounds](https://patilganesh1010.hashnode.dev/announcing-codedamn-playgrounds)  
+
+
 
 
 
