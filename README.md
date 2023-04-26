@@ -1,5 +1,5 @@
 
-![Pink and Maroon Playful Be Right Back Twitch Background](https://user-images.githubusercontent.com/59861179/198283298-19983963-7abc-4bd7-b2db-ec0f84b28be0.png)
+![image](https://user-images.githubusercontent.com/59861179/234605565-7f4779ae-2fce-4172-be90-863ac13bd00a.png)
 
 # 60-Days-of-Technical-Writing
 
