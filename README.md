@@ -23,6 +23,7 @@ This repo contains articles that I planned for next 60 days which are the end of
 | 13. | [Community Manager Role Insights](https://patilganesh1010.hashnode.dev/community-manager-role-insights)
 | 14. | [How to Get Started with Replit](https://dev.to/ganeshstwt/get-started-with-replit-24bf)
 | 15. | [Developer Portfolio - No Code](https://dev.to/ganeshstwt/how-to-build-no-code-dev-portfolio-github-4chk)|
+| 16. | [Deep Dive into Web Development](https://patilganesh1010.hashnode.dev/deep-dive-into-web-development)|
 
 
 
