@@ -4,7 +4,7 @@
 # 60-Days-of-Technical-Writing
 
 Hey there,
-This repo contains articles that I planned for next 60 days which are the end of 2022 year. To track consistency in writing and improving technical writing skills ✍🏻 created this repo and all article are available at [Dev community](https://patilganesh1010.hashnode.dev/)
+This repo contains articles that I planned for the next 60 days. To track consistency in writing and improving technical writing skills ✍🏻 created this repo and all articles are available at [Hashnode](https://devgancode.hashnode.dev/)
 
 | Sr.No  | Article Links |
 | ------------- | ------------- |
@@ -19,11 +19,12 @@ This repo contains articles that I planned for next 60 days which are the end of
 | 9.  | [How to Get Internship As a Developer](https://patilganesh1010.hashnode.dev/right-approach-to-get-internship-as-a-developer)  |
 | 10. | [How to Learn Linux for free ](https://patilganesh1010.hashnode.dev/a-complete-guide-to-hackthebox)  
 | 11. | [Developer Resources to keep Yourself updated with Latest Tech Trends](https://patilganesh1010.hashnode.dev/developer-resources-to-keep-yourself-updated-with-latest-tech-trends)  
-| 12. | [How to get Started with Codedamn Playgrounds](https://patilganesh1010.hashnode.dev/announcing-codedamn-playgrounds)
+| 12. | [How to Get Started with Codedamn Playgrounds](https://patilganesh1010.hashnode.dev/announcing-codedamn-playgrounds)
 | 13. | [Community Manager Role Insights](https://patilganesh1010.hashnode.dev/community-manager-role-insights)
 | 14. | [How to Get Started with Replit](https://dev.to/ganeshstwt/get-started-with-replit-24bf)
 | 15. | [Developer Portfolio - No Code](https://dev.to/ganeshstwt/how-to-build-no-code-dev-portfolio-github-4chk)|
 | 16. | [Deep Dive into Web Development](https://patilganesh1010.hashnode.dev/deep-dive-into-web-development)|
+| 17. | [Deep Dive into JavaScript](https://devgancode.hashnode.dev/)|
 
 
 
