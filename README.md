@@ -1,6 +1,4 @@
 
-![image](https://user-images.githubusercontent.com/59861179/234605565-7f4779ae-2fce-4172-be90-863ac13bd00a.png)
-
 # 60-Days-of-Technical-Writing
 
 Hey there,
@@ -12,7 +10,7 @@ This repo contains articles that I planned for the next 60 days. To track consis
 | 2.  | [A Complete Guide to Modern Waves](https://patilganesh1010.hashnode.dev/a-complete-guide-to-modern-waves)  |
 | 3.  | [Let's Talk About DevRel](https://patilganesh1010.hashnode.dev/lets-talk-about-devrel)  |
 | 4.  | [10+ Ambassador Programs for Newbies](https://patilganesh1010.hashnode.dev/10-ambassador-programs-for-newbies)  |
-| 5.  | [Why Communities Are So Important?](https://patilganesh1010.hashnode.dev/why-communities-are-so-important)  |
+| 5.  | [Why Communities are so Important?](https://patilganesh1010.hashnode.dev/why-communities-are-so-important)  |
 | 6.  | [Devops Simplified](https://dev.to/patilganesh1010/devops-simplified-j12)  |
 | 7.  | [How to Create a Stunning GitHub Readme Profile](https://patilganesh1010.hashnode.dev/how-to-create-a-stunning-github-readme-profile)  |
 | 8.  | [How to Make Money As a Technical Writer](https://patilganesh1010.hashnode.dev/a-complete-guide-to-make-money-as-a-technical-writer)  |
@@ -25,6 +23,7 @@ This repo contains articles that I planned for the next 60 days. To track consis
 | 15. | [Developer Portfolio - No Code](https://dev.to/ganeshstwt/how-to-build-no-code-dev-portfolio-github-4chk)|
 | 16. | [Deep Dive into Web Development](https://patilganesh1010.hashnode.dev/deep-dive-into-web-development)|
 | 17. | [Deep Dive into JavaScript](https://devgancode.hashnode.dev/)|
+| 18. | [Tap into Global Markets: 5 Open-Source Tools for Localization in 2024](https://devgancode.hashnode.dev/tap-into-global-markets-5-open-source-tools-for-localization-in-2024)|
 
 
 
