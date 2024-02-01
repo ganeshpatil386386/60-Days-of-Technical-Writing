@@ -24,7 +24,7 @@ This repo contains articles that I planned for the next 60 days. To track consis
 | 16. | [Deep Dive into Web Development](https://patilganesh1010.hashnode.dev/deep-dive-into-web-development)|
 | 17. | [Deep Dive into JavaScript](https://devgancode.hashnode.dev/)|
 | 18. | [Tap into Global Markets: 5 Open-Source Tools for Localization in 2024](https://devgancode.hashnode.dev/tap-into-global-markets-5-open-source-tools-for-localization-in-2024)|
-
+| 19. | [Technical Writer Interview Experience - Devtron](https://dev.to/devgancode/technical-writer-interview-experience-devtron-13j8)|
 
 
 
