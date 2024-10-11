@@ -1,12 +1,15 @@
 
 # 60-Days-of-Technical-Writing
 
-Hey there,
-This repo contains articles that I planned for the next 60 days. To track consistency in writing and improving technical writing skills ✍🏻 created this repo and all articles are available at [Hashnode](https://devgancode.hashnode.dev/)
+Hey there!👋
+
+This repository contains a collection of articles I've planned to write over the next 60 days. It's designed to help track my consistency and growth in technical writing ✍🏻. You can find all my published articles over at [Hashnode](https://devgancode.hashnode.dev/), where I share insights on web development, programming, and other tech-related topics.
+
+Feel free to explore and follow along on this journey to sharpen writing skills and stay consistent!
 
 | Sr.No  | Article Links |
 | ------------- | ------------- |
-| 1.  | [How to Master The Art of Content Creation As a Developer](https://patilganesh1010.hashnode.dev/how-to-master-the-art-of-content-creation-as-a-developer)  |
+| 1.  | [How to Master The Art of Content Creation As a Developer](https://patilganesh1010.hashnode.dev/how-to-master-the-art-of-content-creation-as-a-developer) | 
 | 2.  | [A Complete Guide to Modern Waves](https://patilganesh1010.hashnode.dev/a-complete-guide-to-modern-waves)  |
 | 3.  | [Let's Talk About DevRel](https://patilganesh1010.hashnode.dev/lets-talk-about-devrel)  |
 | 4.  | [10+ Ambassador Programs for Newbies](https://patilganesh1010.hashnode.dev/10-ambassador-programs-for-newbies)  |
@@ -25,7 +28,7 @@ This repo contains articles that I planned for the next 60 days. To track consis
 | 17. | [Deep Dive into JavaScript](https://devgancode.hashnode.dev/)|
 | 18. | [Tap into Global Markets: 5 Open-Source Tools for Localization in 2024](https://devgancode.hashnode.dev/tap-into-global-markets-5-open-source-tools-for-localization-in-2024)|
 | 19. | [Technical Writer Interview Experience - Devtron](https://dev.to/devgancode/technical-writer-interview-experience-devtron-13j8)|
-
+| 20. | [Guide to Integrating Data Sources with ToolJet App](https://devgancode.hashnode.dev/guide-to-integrating-data-sources-with-tooljet-app)|
 
 
 
