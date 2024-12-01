@@ -28,7 +28,7 @@ Feel free to explore and follow along on this journey to sharpen writing skills 
 | 17. | [Deep Dive into JavaScript](https://devgancode.hashnode.dev/)|
 | 18. | [Tap into Global Markets: 5 Open-Source Tools for Localization in 2024](https://devgancode.hashnode.dev/tap-into-global-markets-5-open-source-tools-for-localization-in-2024)|
 | 19. | [Technical Writer Interview Experience - Devtron](https://dev.to/devgancode/technical-writer-interview-experience-devtron-13j8)|
-| 20. | [Guide to Integrating Data Sources with ToolJet App](https://devgancode.hashnode.dev/guide-to-integrating-data-sources-with-tooljet-app)|
+| 20. | [Guide to Integrating Data Sources with ToolJet Builder](https://devgancode.hashnode.dev/guide-to-integrating-data-sources-with-tooljet-app)|
 
 
 
